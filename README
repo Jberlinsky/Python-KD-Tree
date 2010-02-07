@@ -1,0 +1,1 @@
+This Python class defines a KD-Tree, capable of storing and sifting data in K dimensions based on a simple heuristic (defined in the point). For example, points in a Cartesian plain can be added with a heuristic of d = sqrt((x2-x1)^2+(y2-y1)^2), derived from c^2 = a^2 + b^2, to efficiently find the N nearest neighbors to a given point.
